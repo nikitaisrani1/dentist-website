@@ -1,0 +1,282 @@
+
+.logo {
+    padding-top: 7px;
+    width: 190px;
+    height: 40px;
+}
+
+#nav {
+
+    font-size: 13px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    width:80%;
+    height: 50px;
+    margin-left: 120px;
+    margin-right: auto;
+    margin-top: -45px;
+    position: fixed;
+      
+}
+.sticky
+{
+position: fixed;
+  top: 0;
+}
+
+
+body {
+
+    background-color: #f2f5ff;
+}
+
+.home {
+    padding-left: 210px;
+    padding-top: 17px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.nav-link
+{
+    text-decoration: none;
+    color: #595959;
+    padding-right: 18px;
+}
+nav-buttons
+{
+    padding-left: 210px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.login,.freedemo
+{
+        text-decoration: none;
+        color: #333333;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        /* padding: 15px; */
+        border-radius: 15px;
+        border: 1.3px solid rgb(53, 108, 142);
+}
+
+.freedemo{
+        transition: 0.5s;
+        background-size: 125% auto;
+        color: white;
+        box-shadow: 0 0 20px #eee;
+    background-image: linear-gradient(to right, #2260c2 0%, #43abad 51%, #23d88d 100%);
+}
+.freedemo:hover {
+    background-position: right center;
+}
+
+h1
+{
+    font-size: 50px;
+}
+.image-3
+{
+  float: right;
+  height: auto;
+  width: 500px;
+  margin-top: -450px;
+}
+.image-2
+{
+    float: right;
+   height: 670px;
+   width: 600px;
+   margin-top: -360px;
+}
+.d{
+    margin-left: auto;
+    margin-right: auto;
+}
+.d1{
+color: blue;
+}
+.d2
+{
+    align-items: center;
+}
+.d3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+.d4{
+    padding-left: 370px;
+    padding-top: 50px;
+}
+/* .image-3{
+    height: auto;
+    width: 500px;
+} */
+.image-4{
+  padding-left: 150px;
+    width: 1000px;
+}
+.d5{
+    padding-top: 50px;
+}
+.clr{
+    color: blue;
+}
+.second
+{
+  background-repeat: no-repeat, no-repeat;
+  background-image: url(bg1.jpg);
+}
+.bgimg
+{
+  margin-top: 50px;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat, no-repeat;
+}
+.text1
+{
+    padding-left: 50px;
+    padding-top: 5px;
+}
+.dental{
+    color: blue;
+}
+.text2
+{
+  text-align: justify;
+  font-size: 15px;
+    padding-left: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.d6
+{
+
+  font-size: 13.5px;
+  padding-left: 50px;
+
+  font-family: 'Inter', sans-serif;
+}
+.yellow
+{
+  background-color: #fffce4;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  /* height: 500px; */
+}
+.image-5
+{
+  padding-top: 250px;
+  padding-bottom: 250px;
+  height: 170px;
+}
+.video1
+{
+  float: center;
+  width:400px;
+  height:700px;
+  /* padding-top: 0px; */
+  /* margin-top: -500px; */
+}
+.next
+{
+/* margin-top: -500px; */
+float: right;
+padding-top: 100px;
+font-family: 'Poppins', sans-serif;
+}
+.bgf
+{
+  padding-top: -100px;
+ padding-left: 40px;
+  background-image: url(bg2.jpg);
+  background-repeat: no-repeat, no-repeat;
+}
+.platform{
+  padding-right: 600px;
+  color: rgb(95, 95, 235);
+  font-size: 14px;
+
+}
+.heading
+{
+  font-size: 40px;
+  /* font-weight: 10000; */
+  font-weight: bolder;
+}
+.oneword{
+	background: linear-gradient(to right, #1ca4ea 0%, #43c5ce 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.cards
+{
+  display: flex;
+  width: 100%;
+}
+.card
+{
+  height:300px;
+  width: 800px;
+  background-color: white;
+  border-radius: 40px;
+  padding:15px;
+}
+.left
+{
+  padding-top: 100px;
+  padding-bottom: 250px;
+  align-items: left;
+  height: 72px;
+  width: 130px;
+}
+.right
+{
+  padding-top: 100px;
+  padding-bottom: 250px;
+  align-items: left;
+  height: 72px;
+  width: 130px;
+}
+.fifth
+{
+  background-image: url(bg3.jpg);
+  background-repeat: no-repeat, no-repeat;
+}
+.sixth
+{ 
+  height: 850px;
+  width: 100%;
+  background-color: white;
+}
+.form
+{
+  width: 500px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  resize: vertical;
+  height: 25px;
+}
+.image6
+{
+  height:800px;
+  width: 50%;
+}
+.seventh
+{
+  background-color: #0e0434;
+  display: flex;
+}
+.teeth
+{
+  padding-left: 150px;
+  padding-top: 64px;
+  width: 32px;
+}
